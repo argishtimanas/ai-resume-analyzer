@@ -156,7 +156,7 @@ export const resumes: Resume[] = [
         imagePath: "/images/resume_03.png",
         resumePath: "/resumes/resume-3.pdf",
         feedback: {
-            overallScore: 75,
+            overallScore: 67,
             ATS: {
                 score: 90,
                 tips: [],
